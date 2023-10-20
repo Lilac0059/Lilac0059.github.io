@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://Lilac0059.github.io/al-folio/sitemap.xml
